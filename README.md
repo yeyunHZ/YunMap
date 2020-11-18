@@ -379,8 +379,7 @@ iLocationService.start();
 View mapView = iMap.createMapView(this, CurrentLocation.getLocation(), ConstantCache.MAP_ZOOM);
 iMap.setShowLocation(false);
 ```
- 
-===
+
 
 
 
