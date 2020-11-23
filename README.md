@@ -344,6 +344,8 @@ public interface IMap {
 百度地图 implementation 'com.yun:baidumap:1.9.1'
 
 谷歌地图 implementation 'com.yun:gmap:1.1.7'
+
+注意：使用地图时，仍需配置各个地图所需配置项
 ```
 例:通过提供不同的实现类，就相当于切换了地图sdk
 ```Java
